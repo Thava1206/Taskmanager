@@ -1,0 +1,9 @@
+p {
+    color: maroon;
+    text-align: center;
+}
+button {
+    all: unset;
+    cursor: pointer;
+    background-color: aqua;
+}
